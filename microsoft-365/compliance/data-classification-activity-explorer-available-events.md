@@ -34,7 +34,7 @@ This event is generated each time an unlabeled document is labeled or an email i
 |Source  |Reported in activity explorer | Note  |
 |---------|---------|---------|
 | Word, Excel, PowerPoint|yes |
-|Outlook| yes |from Win 32 |
+|Outlook| yes | |
 |SharePoint online, OneDrive|yes | |
 |Exchange        |yes         | |
 |Azure Information Protection (AIP) unified client and AIP unified scanner |yes |the AIP *new label* action is mapped to *label applied* in activity explorer   |
